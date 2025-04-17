@@ -13,7 +13,7 @@ with col1:
                    url="https://docs.google.com/spreadsheets/d/1Roe8IzbNcUi4rwRpYZQb4Zvmpqvi-iDTvRbwZSTRnkY/edit?usp=sharing")
 
 with col2:
-    st.image("1.jpg", width=300)
+    st.image("2.jpg", width=300)
 
 with col3:
     sheet_id = "1Roe8IzbNcUi4rwRpYZQb4Zvmpqvi-iDTvRbwZSTRnkY"
